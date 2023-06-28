@@ -48,6 +48,8 @@ https://localhost:8080/employee
 3.Update employee
 
    Other parameter can be also update by employee except jobRole and salary details.
+
+   
 <img width="356" alt="image" src="https://github.com/satyam1459/Employee_Report/assets/114183531/58a3d40b-e722-486a-9bbc-c5b7554ffa69">
 
 
